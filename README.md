@@ -21,5 +21,4 @@ The content-type list includes:
 ## Contributing
 If you have any new content-type bypass techniques or recommendations, feel free to fork the repository and create a pull request!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
